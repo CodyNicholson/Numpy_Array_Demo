@@ -1,2 +1,2 @@
-# Numpy_Array_Demo
+# Numpy Array Demo
 Exploring the numpy array api
